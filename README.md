@@ -1,10 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agus-triono08.agus-triono08" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Agus Triono - Web Developer and android developer">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Agus+Triono!;" />
 </h1>
 
-<h3 align="center">A passionate website developer and mobile developer from Indonesia</h3>
+<h3 align="center">A passionate web developer and android developer from Indonesia</h3>
 
 <br/>
 
@@ -38,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,scss,linux,vscode,github,figma,opencv,docker,tailwind,git,vuejs,angular" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,php,javascript,ubuntu,tensorflow,firebase,nginx,mongodb,kotlin,laravel,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,php,javascript,ubuntu,tensorflow,firebase,nginx,mongodb,kotlin,laravel,java,mysql,pug" /><br>
 </div>
 
 <br/>
